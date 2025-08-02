@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=touchIn Pin=U1-12
+Added Pin To Net: NetName=touchIn Pin=U1-3

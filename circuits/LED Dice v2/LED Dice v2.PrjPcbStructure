@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=LED Dice.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=LED Dice.SchDoc|Designator=A|SchDesignator=A|FileName=LED Matrix.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=LED Matrix.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=LED Dice.SchDoc|Designator=B|SchDesignator=B|FileName=LED Matrix.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=LED Matrix.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=LED Dice.SchDoc|Designator=PS1|SchDesignator=PS1|FileName=power and comms.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=power and comms.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=LED Dice.SchDoc|Designator=uC1|SchDesignator=uC1|FileName=microcontroller.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=microcontroller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C14-2
+Change Component Description : Designator=R3 Old Description=125mW Thick Film Resistors 150V ±100ppm/? ±1% 1kO 0805 Chip Resistor - Surface Mount ROHS New Description=1kO 0805  125mW Thick Film Resistors 150V ±100ppm/? ±1% Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R4 Old Description=125mW Thick Film Resistors 150V ±100ppm/? ±1% 1kO 0805 Chip Resistor - Surface Mount ROHS New Description=1kO 0805  125mW Thick Film Resistors 150V ±100ppm/? ±1% Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R1 Old Description=125mW Thick Film Resistors 150V ±100ppm/? ±1% 5.1kO 0805 Chip Resistor - Surface Mount ROHS New Description=5.1kO 0805  125mW Thick Film Resistors 150V ±100ppm/? ±1% Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R2 Old Description=125mW Thick Film Resistors 150V ±100ppm/? ±1% 5.1kO 0805 Chip Resistor - Surface Mount ROHS New Description=5.1kO 0805  125mW Thick Film Resistors 150V ±100ppm/? ±1% Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=U12 Old Description=<b>500mA linear li-ion battery charger</b><p> tp4057 actual charge current to 500ma, dual-lamp indication, reverse battery protection.<br> Alternative to MAX1551 or MAX1555 (not compatible!)<p> Datasheet from TP micro: <br> http://www.tpmicro.com/datasheet/TP4057Ver1.0_preview.pdf <br> http://www.tp-asic.com/te_product_a/2009-05-20/33.chtml New Description=500mA linear li-ion battery charger TP4057 actual charge current to 500ma,
+Added Component: Designator=L1(IND_ASPI-0630LR-150M-T15)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ASPI-0630LR-150M-T15/Abracon+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "ASPI-0630LR-150M-T15TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Abracon LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ASPI-0630LR-150M-T15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Nonstandard Abracon LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ASPI-0630LR-150M-T15/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ASPI-0630LR-150M-T15/Abracon+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vbatt Pin=L1-1
+Added Pin To Net: NetName=NetD2_A Pin=L1-2
+Added Member To Class: ClassName=PS1 Member=Component L1 FXL0630-6R8-M

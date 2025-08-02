@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=+3.3V Pin=J1-1
+Removed Pin From Net: NetName=SWDIO Pin=J1-2
+Removed Pin From Net: NetName=SWCLK Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Change Component Footprint: Designator=J1 Old Footprint=TE_826646-4 New Footprint=TE_826646-3
+Change Component Comment : Designator=J1 Old Comment=826646-4 New Comment=826646-3
+Change Component Designator: OldDesignator=U1_A NewDesignator=U1A
+Change Component Designator: OldDesignator=U1_B NewDesignator=U1B
+Change Component Designator: OldDesignator=U2_A NewDesignator=U2A
+Change Component Designator: OldDesignator=U2_B NewDesignator=U2B
+Change Component Designator: OldDesignator=U3_A NewDesignator=U3A
+Change Component Designator: OldDesignator=U3_B NewDesignator=U3B
+Change Component Designator: OldDesignator=U4_A NewDesignator=U4A
+Change Component Designator: OldDesignator=U4_B NewDesignator=U4B
+Change Component Designator: OldDesignator=U5_A NewDesignator=U5A
+Change Component Designator: OldDesignator=U5_B NewDesignator=U5B
+Change Component Designator: OldDesignator=U6_A NewDesignator=U6A
+Change Component Designator: OldDesignator=U6_B NewDesignator=U6B
+Change Component Designator: OldDesignator=U7_A NewDesignator=U7A
+Change Component Designator: OldDesignator=U7_B NewDesignator=U7B
+Change component parameters: Designator = "J1" ("J1"); Footprint = "TE_826646-4"; UniqueID = "\EZHCOVEJ\OGGSFVKA" ("\EZHCOVEJ\OGGSFVKA")
+Change component parameters (AddParameter): Name = "Arrow_Europe-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Europe&id=2389612"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=2389612"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=2389612"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "826646-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/826646-3/TE%20Connectivity%20AMP%20Connectors/view-part/2389612/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SWDIO Pin=J1-1
+Added Pin To Net: NetName=SWCLK Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Change Net Name : Old Net Name=NetU1_A_1 New Net Name=NetU1A_1
+Change Net Name : Old Net Name=NetU1_B_1 New Net Name=NetU1B_1
+Change Net Name : Old Net Name=NetU2_A_1 New Net Name=NetU2A_1
+Change Net Name : Old Net Name=NetU2_A_3 New Net Name=NetU2A_3
+Change Net Name : Old Net Name=NetU2_B_1 New Net Name=NetU2B_1
+Change Net Name : Old Net Name=NetU2_B_3 New Net Name=NetU2B_3
+Change Net Name : Old Net Name=NetU3_A_1 New Net Name=NetU3A_1
+Change Net Name : Old Net Name=NetU3_B_1 New Net Name=NetU3B_1
+Change Net Name : Old Net Name=NetU4_A_3 New Net Name=NetU4A_3
+Change Net Name : Old Net Name=NetU4_B_3 New Net Name=NetU4B_3
+Change Net Name : Old Net Name=NetU5_A_1 New Net Name=NetU5A_1
+Change Net Name : Old Net Name=NetU5_B_1 New Net Name=NetU5B_1

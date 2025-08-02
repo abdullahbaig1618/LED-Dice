@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=VUSB+ Pin=U10-5
+Removed Pin From Net: NetName=RXD Pin=U10-6
+Removed Pin From Net: NetName=TXD Pin=U10-7
+Removed Pin From Net: NetName=V3 Pin=U10-8
+Change Component Footprint: Designator=U10 Old Footprint=SOIC127P600X160-8N New Footprint=MSOP10
+Change Component Comment : Designator=U10 Old Comment=CH340N New Comment=CH340E
+Change component parameters: Designator = "U10" ("U10"); Footprint = "SOIC127P600X160-8N"; UniqueID = "\KDTTDXUO\JMBQYJJR" ("\KDTTDXUO\JMBQYJJR")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CH340E/WCH/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "WCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CH340E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CH340E/WCH/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC2012X65N)
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+5V Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=+5V Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=Vbatt Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=Vbatt Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=VUSB+ Pin=U10-7
+Added Pin To Net: NetName=RXD Pin=U10-8
+Added Pin To Net: NetName=TXD Pin=U10-9
+Added Pin To Net: NetName=V3 Pin=U10-10
+Added Pin To Net: NetName=NetD3_NEG Pin=D3-NEG
+Added Pin To Net: NetName=NetD3_NEG Pin=R8-1
+Added Net: Name=NetD3_NEG
+Added Pin To Net: NetName=NetD3_POS Pin=D3-POS
+Added Pin To Net: NetName=NetD3_POS Pin=U10-6
+Added Net: Name=NetD3_POS
+Added Member To Class: ClassName=PS1 Member=Component D3 LTST-C171KRKT
+Added Member To Class: ClassName=PS1 Member=Component R8 0805W8F2200T5E

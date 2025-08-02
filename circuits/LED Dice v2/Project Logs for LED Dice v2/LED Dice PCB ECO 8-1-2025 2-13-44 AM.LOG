@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetD1_P$2 Pin=R3-1
+Removed Pin From Net: NetName=VUSB+ Pin=R3-2
+Removed Pin From Net: NetName=NetD1_P$1 Pin=R4-1
+Removed Pin From Net: NetName=NetD3_NEG Pin=R8-1
+Removed Pin From Net: NetName=GND Pin=R8-2
+Change Component Footprint: Designator=R3 Old Footprint=RESC2012X65N New Footprint=RESC1508X60N
+Change Component Footprint: Designator=R4 Old Footprint=RESC2012X65N New Footprint=RESC1508X60N
+Change Component Comment : Designator=R8 Old Comment=0603WAF2200T5E New Comment=0603WAF1001T5E
+Change Component Comment : Designator=R3 Old Comment=0805W8F1001T5E New Comment=0603WAF1001T5E
+Change Component Comment : Designator=R4 Old Comment=0805W8F1001T5E New Comment=0603WAF1001T5E
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RESC2012X65N"; UniqueID = "\KDTTDXUO\VOJOAVVS" ("\KDTTDXUO\VOJOAVVS")
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RESC2012X65N"; UniqueID = "\KDTTDXUO\SEQMKTMH" ("\KDTTDXUO\SEQMKTMH")
+Added Pin To Net: NetName=NetD3_NEG Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetD1_P$2 Pin=R4-1
+Added Pin To Net: NetName=NetD1_P$1 Pin=R8-1
+Added Pin To Net: NetName=VUSB+ Pin=R8-2

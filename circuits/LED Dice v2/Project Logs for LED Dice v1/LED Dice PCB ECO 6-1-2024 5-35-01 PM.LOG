@@ -1,0 +1,108 @@
+Added Pin To Net: NetName=+5 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=+3.3V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=+5 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+3.3V Pin=C4-2
+Added Pin To Net: NetName=Batt+ Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+3.3V Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+3.3V Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetD1_NEG Pin=D1-NEG
+Added Pin To Net: NetName=NetD1_POS Pin=D1-POS
+Added Pin To Net: NetName=NetD2_NEG Pin=D2-NEG
+Added Pin To Net: NetName=NetD2_POS Pin=D2-POS
+Added Pin To Net: NetName=GND Pin=D3_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD3_LED Matrix2_POS Pin=D3_LED Matrix2-POS
+Added Pin To Net: NetName=GND Pin=D4_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD4_LED Matrix2_POS Pin=D4_LED Matrix2-POS
+Added Pin To Net: NetName=GND Pin=D5_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD5_LED Matrix2_POS Pin=D5_LED Matrix2-POS
+Added Pin To Net: NetName=GND Pin=D6_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD6_LED Matrix2_POS Pin=D6_LED Matrix2-POS
+Added Pin To Net: NetName=GND Pin=D7_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD7_LED Matrix2_POS Pin=D7_LED Matrix2-POS
+Added Pin To Net: NetName=GND Pin=D8_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD8_LED Matrix2_POS Pin=D8_LED Matrix2-POS
+Added Pin To Net: NetName=GND Pin=D9_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD9_LED Matrix2_POS Pin=D9_LED Matrix2-POS
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-S1
+Added Pin To Net: NetName=GND Pin=J1-S2
+Added Pin To Net: NetName=GND Pin=J1-S3
+Added Pin To Net: NetName=GND Pin=J1-S4
+Added Pin To Net: NetName=GND Pin=J1-S5
+Added Pin To Net: NetName=GND Pin=J1-S6
+Added Pin To Net: NetName=Batt+ Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=NetD1_POS Pin=R1-1
+Added Pin To Net: NetName=+5 Pin=R1-2
+Added Pin To Net: NetName=NetD2_POS Pin=R2-1
+Added Pin To Net: NetName=+5 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetD4_LED Matrix2_POS Pin=R4_LED Matrix2-1
+Added Pin To Net: NetName=NetR4_LED Matrix2_2 Pin=R4_LED Matrix2-2
+Added Pin To Net: NetName=NetD5_LED Matrix2_POS Pin=R5_LED Matrix2-1
+Added Pin To Net: NetName=NetR5_LED Matrix2_2 Pin=R5_LED Matrix2-2
+Added Pin To Net: NetName=NetD8_LED Matrix2_POS Pin=R6_LED Matrix2-1
+Added Pin To Net: NetName=NetR6_LED Matrix2_2 Pin=R6_LED Matrix2-2
+Added Pin To Net: NetName=NetD7_LED Matrix2_POS Pin=R7_LED Matrix2-1
+Added Pin To Net: NetName=NetR7_LED Matrix2_2 Pin=R7_LED Matrix2-2
+Added Pin To Net: NetName=NetD3_LED Matrix2_POS Pin=R8_LED Matrix2-1
+Added Pin To Net: NetName=NetR8_LED Matrix2_2 Pin=R8_LED Matrix2-2
+Added Pin To Net: NetName=NetD6_LED Matrix2_POS Pin=R9_LED Matrix2-1
+Added Pin To Net: NetName=NetR9_LED Matrix2_2 Pin=R9_LED Matrix2-2
+Added Pin To Net: NetName=NetD9_LED Matrix2_POS Pin=R10_LED Matrix2-1
+Added Pin To Net: NetName=NetR10_LED Matrix2_2 Pin=R10_LED Matrix2-2
+Added Pin To Net: NetName=Vbatt Pin=S1-1
+Added Pin To Net: NetName=Batt+ Pin=S1-2
+Added Pin To Net: NetName=SCL Pin=U1-1
+Added Pin To Net: NetName=SDA Pin=U1-2
+Added Pin To Net: NetName=+3.3V Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=touchIn Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=NetR6_LED Matrix2_2 Pin=U2-4
+Added Pin To Net: NetName=NetR5_LED Matrix2_2 Pin=U2-5
+Added Pin To Net: NetName=NetR4_LED Matrix2_2 Pin=U2-6
+Added Pin To Net: NetName=NetR7_LED Matrix2_2 Pin=U2-7
+Added Pin To Net: NetName=NetR10_LED Matrix2_2 Pin=U2-8
+Added Pin To Net: NetName=NetR9_LED Matrix2_2 Pin=U2-9
+Added Pin To Net: NetName=NetR8_LED Matrix2_2 Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=NetR8_LED Matrix1_2 Pin=U2-13
+Added Pin To Net: NetName=NetR9_LED Matrix1_2 Pin=U2-14
+Added Pin To Net: NetName=NetR10_LED Matrix1_2 Pin=U2-15
+Added Pin To Net: NetName=NetR7_LED Matrix1_2 Pin=U2-16
+Added Pin To Net: NetName=NetR4_LED Matrix1_2 Pin=U2-17
+Added Pin To Net: NetName=NetR5_LED Matrix1_2 Pin=U2-18
+Added Pin To Net: NetName=NetR6_LED Matrix1_2 Pin=U2-19
+Added Pin To Net: NetName=+3.3V Pin=U2-21
+Added Pin To Net: NetName=SCL Pin=U2-22
+Added Pin To Net: NetName=SDA Pin=U2-23
+Added Pin To Net: NetName=+3.3V Pin=U2-24
+Added Pin To Net: NetName=Vbatt Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=Vbatt Pin=U3-3
+Added Pin To Net: NetName=+3.3V Pin=U3-5
+Added Pin To Net: NetName=touchIn Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=NetC8_2 Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=+3.3V Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Pin To Net: NetName=NetD1_NEG Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=Batt+ Pin=U5-3
+Added Pin To Net: NetName=+5 Pin=U5-4
+Added Pin To Net: NetName=NetD2_NEG Pin=U5-5
+Added Pin To Net: NetName=NetR3_2 Pin=U5-6

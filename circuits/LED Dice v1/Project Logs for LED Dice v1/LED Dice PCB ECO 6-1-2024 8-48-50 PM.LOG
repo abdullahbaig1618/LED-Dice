@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=led17 Pin=U2-17
-Removed Pin From Net: NetName=led15 Pin=U2-19
-Added Pin To Net: NetName=led15 Pin=U2-17
-Added Pin To Net: NetName=led17 Pin=U2-19
-Added Member To Class: ClassName=LED Matrix Member=LED Matrix (LED Matrix.SchDoc)

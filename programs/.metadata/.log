@@ -1908,3 +1908,22 @@ org.eclipse.core.commands.NotHandledException: There is no handler to execute fo
 
 !ENTRY org.eclipse.cdt.core 1 0 2025-07-21 18:16:19.073
 !MESSAGE Indexed 'LED Dice G030' (19 sources, 83 headers) in 4.45 sec: 4,277 declarations; 17,699 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0091%)
+!SESSION 2025-08-02 16:20:38.894 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  D:\Abdullah\projects\LED Dice\programs\LED Dice G030\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\Abdullah\projects\LED Dice\programs\LED Dice G030\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-08-02 16:21:10.785
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-08-02 16:21:10.785
+!MESSAGE Log4j2 initialized with config file D:\Abdullah\projects\LED Dice\programs\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-08-02 16:21:21.526
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-08-02 16:21:30.847
+!MESSAGE Indexed 'LED Dice G030' (23 sources, 116 headers) in 8.16 sec: 11,406 declarations; 61,860 references; 3 unresolved inclusions; 26 syntax errors; 171 unresolved names (0.23%)

@@ -1,0 +1,675 @@
+Added Component: Designator=D3_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D8_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D8_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D9_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D9_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D10_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D10_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D11_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D11_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D12_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D12_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D13_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D13_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D14_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D14_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D15_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D15_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D16_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D16_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D17_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D17_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D18_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D18_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D19_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D19_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D20_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D20_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D21_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D21_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D22_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D22_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D23_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D23_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D24_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D24_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D25_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D25_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D26_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D26_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D27_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D27_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D28_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D28_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D29_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D29_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D30_LED Matrix1(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D30_LED Matrix2(DIOC200X125X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C171KRKT/Lite-On%20Inc./view-part/357775/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4_LED Matrix1(RESC2012X65N)
+Added Component: Designator=R4_LED Matrix2(RESC2012X65N)
+Added Component: Designator=R5_LED Matrix1(RESC2012X65N)
+Added Component: Designator=R5_LED Matrix2(RESC2012X65N)
+Added Component: Designator=R6_LED Matrix1(RESC2012X65N)
+Added Component: Designator=R6_LED Matrix2(RESC2012X65N)
+Added Component: Designator=R7_LED Matrix1(RESC2012X65N)
+Added Component: Designator=R7_LED Matrix2(RESC2012X65N)
+Added Component: Designator=R8_LED Matrix1(RESC2012X65N)
+Added Component: Designator=R8_LED Matrix2(RESC2012X65N)
+Added Component: Designator=R9_LED Matrix1(RESC2012X65N)
+Added Component: Designator=R9_LED Matrix2(RESC2012X65N)
+Added Component: Designator=R10_LED Matrix1(RESC2012X65N)
+Added Component: Designator=R10_LED Matrix2(RESC2012X65N)
+Added Pin To Net: NetName=GND Pin=D5_LED Matrix1-NEG
+Added Pin To Net: NetName=GND Pin=D5_LED Matrix2-NEG
+Added Pin To Net: NetName=GND Pin=D6_LED Matrix1-NEG
+Added Pin To Net: NetName=GND Pin=D6_LED Matrix2-NEG
+Added Pin To Net: NetName=GND Pin=D9_LED Matrix1-NEG
+Added Pin To Net: NetName=GND Pin=D9_LED Matrix2-NEG
+Added Pin To Net: NetName=GND Pin=D10_LED Matrix1-NEG
+Added Pin To Net: NetName=GND Pin=D10_LED Matrix2-NEG
+Added Pin To Net: NetName=GND Pin=D13_LED Matrix1-NEG
+Added Pin To Net: NetName=GND Pin=D13_LED Matrix2-NEG
+Added Pin To Net: NetName=GND Pin=D14_LED Matrix1-NEG
+Added Pin To Net: NetName=GND Pin=D14_LED Matrix2-NEG
+Added Pin To Net: NetName=GND Pin=D17_LED Matrix1-NEG
+Added Pin To Net: NetName=GND Pin=D17_LED Matrix2-NEG
+Added Pin To Net: NetName=GND Pin=D18_LED Matrix1-NEG
+Added Pin To Net: NetName=GND Pin=D18_LED Matrix2-NEG
+Added Pin To Net: NetName=GND Pin=D21_LED Matrix1-NEG
+Added Pin To Net: NetName=GND Pin=D21_LED Matrix2-NEG
+Added Pin To Net: NetName=GND Pin=D22_LED Matrix1-NEG
+Added Pin To Net: NetName=GND Pin=D22_LED Matrix2-NEG
+Added Pin To Net: NetName=GND Pin=D25_LED Matrix1-NEG
+Added Pin To Net: NetName=GND Pin=D25_LED Matrix2-NEG
+Added Pin To Net: NetName=GND Pin=D26_LED Matrix1-NEG
+Added Pin To Net: NetName=GND Pin=D26_LED Matrix2-NEG
+Added Pin To Net: NetName=GND Pin=D29_LED Matrix1-NEG
+Added Pin To Net: NetName=GND Pin=D29_LED Matrix2-NEG
+Added Pin To Net: NetName=GND Pin=D30_LED Matrix1-NEG
+Added Pin To Net: NetName=GND Pin=D30_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD3_LED Matrix1_NEG Pin=D3_LED Matrix1-NEG
+Added Pin To Net: NetName=NetD3_LED Matrix1_NEG Pin=D5_LED Matrix1-POS
+Added Net: Name=NetD3_LED Matrix1_NEG
+Added Pin To Net: NetName=NetD3_LED Matrix1_POS Pin=D3_LED Matrix1-POS
+Added Pin To Net: NetName=NetD3_LED Matrix1_POS Pin=D4_LED Matrix1-POS
+Added Pin To Net: NetName=NetD3_LED Matrix1_POS Pin=R4_LED Matrix1-1
+Added Net: Name=NetD3_LED Matrix1_POS
+Added Pin To Net: NetName=NetD3_LED Matrix2_NEG Pin=D3_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD3_LED Matrix2_NEG Pin=D5_LED Matrix2-POS
+Added Net: Name=NetD3_LED Matrix2_NEG
+Added Pin To Net: NetName=NetD3_LED Matrix2_POS Pin=D3_LED Matrix2-POS
+Added Pin To Net: NetName=NetD3_LED Matrix2_POS Pin=D4_LED Matrix2-POS
+Added Pin To Net: NetName=NetD3_LED Matrix2_POS Pin=R4_LED Matrix2-1
+Added Net: Name=NetD3_LED Matrix2_POS
+Added Pin To Net: NetName=NetD4_LED Matrix1_NEG Pin=D4_LED Matrix1-NEG
+Added Pin To Net: NetName=NetD4_LED Matrix1_NEG Pin=D6_LED Matrix1-POS
+Added Net: Name=NetD4_LED Matrix1_NEG
+Added Pin To Net: NetName=NetD4_LED Matrix2_NEG Pin=D4_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD4_LED Matrix2_NEG Pin=D6_LED Matrix2-POS
+Added Net: Name=NetD4_LED Matrix2_NEG
+Added Pin To Net: NetName=NetD7_LED Matrix1_NEG Pin=D7_LED Matrix1-NEG
+Added Pin To Net: NetName=NetD7_LED Matrix1_NEG Pin=D9_LED Matrix1-POS
+Added Net: Name=NetD7_LED Matrix1_NEG
+Added Pin To Net: NetName=NetD7_LED Matrix1_POS Pin=D7_LED Matrix1-POS
+Added Pin To Net: NetName=NetD7_LED Matrix1_POS Pin=D8_LED Matrix1-POS
+Added Pin To Net: NetName=NetD7_LED Matrix1_POS Pin=R5_LED Matrix1-1
+Added Net: Name=NetD7_LED Matrix1_POS
+Added Pin To Net: NetName=NetD7_LED Matrix2_NEG Pin=D7_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD7_LED Matrix2_NEG Pin=D9_LED Matrix2-POS
+Added Net: Name=NetD7_LED Matrix2_NEG
+Added Pin To Net: NetName=NetD7_LED Matrix2_POS Pin=D7_LED Matrix2-POS
+Added Pin To Net: NetName=NetD7_LED Matrix2_POS Pin=D8_LED Matrix2-POS
+Added Pin To Net: NetName=NetD7_LED Matrix2_POS Pin=R5_LED Matrix2-1
+Added Net: Name=NetD7_LED Matrix2_POS
+Added Pin To Net: NetName=NetD8_LED Matrix1_NEG Pin=D8_LED Matrix1-NEG
+Added Pin To Net: NetName=NetD8_LED Matrix1_NEG Pin=D10_LED Matrix1-POS
+Added Net: Name=NetD8_LED Matrix1_NEG
+Added Pin To Net: NetName=NetD8_LED Matrix2_NEG Pin=D8_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD8_LED Matrix2_NEG Pin=D10_LED Matrix2-POS
+Added Net: Name=NetD8_LED Matrix2_NEG
+Added Pin To Net: NetName=NetD11_LED Matrix1_NEG Pin=D11_LED Matrix1-NEG
+Added Pin To Net: NetName=NetD11_LED Matrix1_NEG Pin=D13_LED Matrix1-POS
+Added Net: Name=NetD11_LED Matrix1_NEG
+Added Pin To Net: NetName=NetD11_LED Matrix1_POS Pin=D11_LED Matrix1-POS
+Added Pin To Net: NetName=NetD11_LED Matrix1_POS Pin=D12_LED Matrix1-POS
+Added Pin To Net: NetName=NetD11_LED Matrix1_POS Pin=R6_LED Matrix1-1
+Added Net: Name=NetD11_LED Matrix1_POS
+Added Pin To Net: NetName=NetD11_LED Matrix2_NEG Pin=D11_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD11_LED Matrix2_NEG Pin=D13_LED Matrix2-POS
+Added Net: Name=NetD11_LED Matrix2_NEG
+Added Pin To Net: NetName=NetD11_LED Matrix2_POS Pin=D11_LED Matrix2-POS
+Added Pin To Net: NetName=NetD11_LED Matrix2_POS Pin=D12_LED Matrix2-POS
+Added Pin To Net: NetName=NetD11_LED Matrix2_POS Pin=R6_LED Matrix2-1
+Added Net: Name=NetD11_LED Matrix2_POS
+Added Pin To Net: NetName=NetD12_LED Matrix1_NEG Pin=D12_LED Matrix1-NEG
+Added Pin To Net: NetName=NetD12_LED Matrix1_NEG Pin=D14_LED Matrix1-POS
+Added Net: Name=NetD12_LED Matrix1_NEG
+Added Pin To Net: NetName=NetD12_LED Matrix2_NEG Pin=D12_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD12_LED Matrix2_NEG Pin=D14_LED Matrix2-POS
+Added Net: Name=NetD12_LED Matrix2_NEG
+Added Pin To Net: NetName=NetD15_LED Matrix1_NEG Pin=D15_LED Matrix1-NEG
+Added Pin To Net: NetName=NetD15_LED Matrix1_NEG Pin=D17_LED Matrix1-POS
+Added Net: Name=NetD15_LED Matrix1_NEG
+Added Pin To Net: NetName=NetD15_LED Matrix1_POS Pin=D15_LED Matrix1-POS
+Added Pin To Net: NetName=NetD15_LED Matrix1_POS Pin=D16_LED Matrix1-POS
+Added Pin To Net: NetName=NetD15_LED Matrix1_POS Pin=R7_LED Matrix1-1
+Added Net: Name=NetD15_LED Matrix1_POS
+Added Pin To Net: NetName=NetD15_LED Matrix2_NEG Pin=D15_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD15_LED Matrix2_NEG Pin=D17_LED Matrix2-POS
+Added Net: Name=NetD15_LED Matrix2_NEG
+Added Pin To Net: NetName=NetD15_LED Matrix2_POS Pin=D15_LED Matrix2-POS
+Added Pin To Net: NetName=NetD15_LED Matrix2_POS Pin=D16_LED Matrix2-POS
+Added Pin To Net: NetName=NetD15_LED Matrix2_POS Pin=R7_LED Matrix2-1
+Added Net: Name=NetD15_LED Matrix2_POS
+Added Pin To Net: NetName=NetD16_LED Matrix1_NEG Pin=D16_LED Matrix1-NEG
+Added Pin To Net: NetName=NetD16_LED Matrix1_NEG Pin=D18_LED Matrix1-POS
+Added Net: Name=NetD16_LED Matrix1_NEG
+Added Pin To Net: NetName=NetD16_LED Matrix2_NEG Pin=D16_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD16_LED Matrix2_NEG Pin=D18_LED Matrix2-POS
+Added Net: Name=NetD16_LED Matrix2_NEG
+Added Pin To Net: NetName=NetD19_LED Matrix1_NEG Pin=D19_LED Matrix1-NEG
+Added Pin To Net: NetName=NetD19_LED Matrix1_NEG Pin=D21_LED Matrix1-POS
+Added Net: Name=NetD19_LED Matrix1_NEG
+Added Pin To Net: NetName=NetD19_LED Matrix1_POS Pin=D19_LED Matrix1-POS
+Added Pin To Net: NetName=NetD19_LED Matrix1_POS Pin=D20_LED Matrix1-POS
+Added Pin To Net: NetName=NetD19_LED Matrix1_POS Pin=R8_LED Matrix1-1
+Added Net: Name=NetD19_LED Matrix1_POS
+Added Pin To Net: NetName=NetD19_LED Matrix2_NEG Pin=D19_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD19_LED Matrix2_NEG Pin=D21_LED Matrix2-POS
+Added Net: Name=NetD19_LED Matrix2_NEG
+Added Pin To Net: NetName=NetD19_LED Matrix2_POS Pin=D19_LED Matrix2-POS
+Added Pin To Net: NetName=NetD19_LED Matrix2_POS Pin=D20_LED Matrix2-POS
+Added Pin To Net: NetName=NetD19_LED Matrix2_POS Pin=R8_LED Matrix2-1
+Added Net: Name=NetD19_LED Matrix2_POS
+Added Pin To Net: NetName=NetD20_LED Matrix1_NEG Pin=D20_LED Matrix1-NEG
+Added Pin To Net: NetName=NetD20_LED Matrix1_NEG Pin=D22_LED Matrix1-POS
+Added Net: Name=NetD20_LED Matrix1_NEG
+Added Pin To Net: NetName=NetD20_LED Matrix2_NEG Pin=D20_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD20_LED Matrix2_NEG Pin=D22_LED Matrix2-POS
+Added Net: Name=NetD20_LED Matrix2_NEG
+Added Pin To Net: NetName=NetD23_LED Matrix1_NEG Pin=D23_LED Matrix1-NEG
+Added Pin To Net: NetName=NetD23_LED Matrix1_NEG Pin=D25_LED Matrix1-POS
+Added Net: Name=NetD23_LED Matrix1_NEG
+Added Pin To Net: NetName=NetD23_LED Matrix1_POS Pin=D23_LED Matrix1-POS
+Added Pin To Net: NetName=NetD23_LED Matrix1_POS Pin=D24_LED Matrix1-POS
+Added Pin To Net: NetName=NetD23_LED Matrix1_POS Pin=R9_LED Matrix1-1
+Added Net: Name=NetD23_LED Matrix1_POS
+Added Pin To Net: NetName=NetD23_LED Matrix2_NEG Pin=D23_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD23_LED Matrix2_NEG Pin=D25_LED Matrix2-POS
+Added Net: Name=NetD23_LED Matrix2_NEG
+Added Pin To Net: NetName=NetD23_LED Matrix2_POS Pin=D23_LED Matrix2-POS
+Added Pin To Net: NetName=NetD23_LED Matrix2_POS Pin=D24_LED Matrix2-POS
+Added Pin To Net: NetName=NetD23_LED Matrix2_POS Pin=R9_LED Matrix2-1
+Added Net: Name=NetD23_LED Matrix2_POS
+Added Pin To Net: NetName=NetD24_LED Matrix1_NEG Pin=D24_LED Matrix1-NEG
+Added Pin To Net: NetName=NetD24_LED Matrix1_NEG Pin=D26_LED Matrix1-POS
+Added Net: Name=NetD24_LED Matrix1_NEG
+Added Pin To Net: NetName=NetD24_LED Matrix2_NEG Pin=D24_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD24_LED Matrix2_NEG Pin=D26_LED Matrix2-POS
+Added Net: Name=NetD24_LED Matrix2_NEG
+Added Pin To Net: NetName=NetD27_LED Matrix1_NEG Pin=D27_LED Matrix1-NEG
+Added Pin To Net: NetName=NetD27_LED Matrix1_NEG Pin=D29_LED Matrix1-POS
+Added Net: Name=NetD27_LED Matrix1_NEG
+Added Pin To Net: NetName=NetD27_LED Matrix1_POS Pin=D27_LED Matrix1-POS
+Added Pin To Net: NetName=NetD27_LED Matrix1_POS Pin=D28_LED Matrix1-POS
+Added Pin To Net: NetName=NetD27_LED Matrix1_POS Pin=R10_LED Matrix1-1
+Added Net: Name=NetD27_LED Matrix1_POS
+Added Pin To Net: NetName=NetD27_LED Matrix2_NEG Pin=D27_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD27_LED Matrix2_NEG Pin=D29_LED Matrix2-POS
+Added Net: Name=NetD27_LED Matrix2_NEG
+Added Pin To Net: NetName=NetD27_LED Matrix2_POS Pin=D27_LED Matrix2-POS
+Added Pin To Net: NetName=NetD27_LED Matrix2_POS Pin=D28_LED Matrix2-POS
+Added Pin To Net: NetName=NetD27_LED Matrix2_POS Pin=R10_LED Matrix2-1
+Added Net: Name=NetD27_LED Matrix2_POS
+Added Pin To Net: NetName=NetD28_LED Matrix1_NEG Pin=D28_LED Matrix1-NEG
+Added Pin To Net: NetName=NetD28_LED Matrix1_NEG Pin=D30_LED Matrix1-POS
+Added Net: Name=NetD28_LED Matrix1_NEG
+Added Pin To Net: NetName=NetD28_LED Matrix2_NEG Pin=D28_LED Matrix2-NEG
+Added Pin To Net: NetName=NetD28_LED Matrix2_NEG Pin=D30_LED Matrix2-POS
+Added Net: Name=NetD28_LED Matrix2_NEG
+Added Pin To Net: NetName=NetR4_LED Matrix1_2 Pin=R4_LED Matrix1-2
+Added Pin To Net: NetName=NetR4_LED Matrix1_2 Pin=U2-17
+Added Net: Name=NetR4_LED Matrix1_2
+Added Pin To Net: NetName=NetR4_LED Matrix2_2 Pin=R4_LED Matrix2-2
+Added Pin To Net: NetName=NetR4_LED Matrix2_2 Pin=U2-6
+Added Net: Name=NetR4_LED Matrix2_2
+Added Pin To Net: NetName=NetR5_LED Matrix1_2 Pin=R5_LED Matrix1-2
+Added Pin To Net: NetName=NetR5_LED Matrix1_2 Pin=U2-18
+Added Net: Name=NetR5_LED Matrix1_2
+Added Pin To Net: NetName=NetR5_LED Matrix2_2 Pin=R5_LED Matrix2-2
+Added Pin To Net: NetName=NetR5_LED Matrix2_2 Pin=U2-5
+Added Net: Name=NetR5_LED Matrix2_2
+Added Pin To Net: NetName=NetR6_LED Matrix1_2 Pin=R6_LED Matrix1-2
+Added Pin To Net: NetName=NetR6_LED Matrix1_2 Pin=U2-19
+Added Net: Name=NetR6_LED Matrix1_2
+Added Pin To Net: NetName=NetR6_LED Matrix2_2 Pin=R6_LED Matrix2-2
+Added Pin To Net: NetName=NetR6_LED Matrix2_2 Pin=U2-4
+Added Net: Name=NetR6_LED Matrix2_2
+Added Pin To Net: NetName=NetR7_LED Matrix1_2 Pin=R7_LED Matrix1-2
+Added Pin To Net: NetName=NetR7_LED Matrix1_2 Pin=U2-16
+Added Net: Name=NetR7_LED Matrix1_2
+Added Pin To Net: NetName=NetR7_LED Matrix2_2 Pin=R7_LED Matrix2-2
+Added Pin To Net: NetName=NetR7_LED Matrix2_2 Pin=U2-7
+Added Net: Name=NetR7_LED Matrix2_2
+Added Pin To Net: NetName=NetR8_LED Matrix1_2 Pin=R8_LED Matrix1-2
+Added Pin To Net: NetName=NetR8_LED Matrix1_2 Pin=U2-13
+Added Net: Name=NetR8_LED Matrix1_2
+Added Pin To Net: NetName=NetR8_LED Matrix2_2 Pin=R8_LED Matrix2-2
+Added Pin To Net: NetName=NetR8_LED Matrix2_2 Pin=U2-10
+Added Net: Name=NetR8_LED Matrix2_2
+Added Pin To Net: NetName=NetR9_LED Matrix1_2 Pin=R9_LED Matrix1-2
+Added Pin To Net: NetName=NetR9_LED Matrix1_2 Pin=U2-14
+Added Net: Name=NetR9_LED Matrix1_2
+Added Pin To Net: NetName=NetR9_LED Matrix2_2 Pin=R9_LED Matrix2-2
+Added Pin To Net: NetName=NetR9_LED Matrix2_2 Pin=U2-9
+Added Net: Name=NetR9_LED Matrix2_2
+Added Pin To Net: NetName=NetR10_LED Matrix1_2 Pin=R10_LED Matrix1-2
+Added Pin To Net: NetName=NetR10_LED Matrix1_2 Pin=U2-15
+Added Net: Name=NetR10_LED Matrix1_2
+Added Pin To Net: NetName=NetR10_LED Matrix2_2 Pin=R10_LED Matrix2-2
+Added Pin To Net: NetName=NetR10_LED Matrix2_2 Pin=U2-8
+Added Net: Name=NetR10_LED Matrix2_2
+Added Class: Name=LED Matrix1
+Added Class: Name=LED Matrix2
+Added Class: Name=LED Matrix

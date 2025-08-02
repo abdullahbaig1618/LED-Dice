@@ -1,0 +1,31 @@
+Add Component: Footprint Not Found CAPC1608X90N
+Add Component: Footprint Not Found CAPC1608X90N
+Add Component: Footprint Not Found CAPC1608X90N
+Add Component: Footprint Not Found SW_EG1215AA
+Added Component: Designator=U3(SOT95P280X145-5N)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLV74330PDBVR/Texas%20Instruments/view-part/2878367/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLV74330PDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-5 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TLV74330PDBVR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLV74330PDBVR/Texas%20Instruments/view-part/2878367/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Added Pin To Net: NetName=Vbatt Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=Vbatt Pin=U3-3
+Added Pin To Net: NetName=+3.3V Pin=U3-5
+Add Class Member: Failed to add class member : Component C4 CL10B104KB8NNNC
+Add Class Member: Failed to add class member : Component C6 CL10B104KB8NNNC
+Add Class Member: Failed to add class member : Component C7 CL10B104KB8NNNC
+Add Class Member: Failed to add class member : Component S1 EG1215AA
+Added Member To Class: ClassName=LED Dice Member=Component U3 TLV74330PDBVR

@@ -1,0 +1,19 @@
+Change Net Name : Old Net Name=NetR7.2_2 New Net Name=led24
+Added Pin To Net: NetName=led21 Pin=R6.2-2
+Added Pin To Net: NetName=led21 Pin=U2-10
+Added Net: Name=led21
+Added Pin To Net: NetName=led22 Pin=R5.2-2
+Added Pin To Net: NetName=led22 Pin=U2-9
+Added Net: Name=led22
+Added Pin To Net: NetName=led23 Pin=R4.2-2
+Added Pin To Net: NetName=led23 Pin=U2-8
+Added Net: Name=led23
+Added Pin To Net: NetName=led25 Pin=R10.2-2
+Added Pin To Net: NetName=led25 Pin=U2-4
+Added Net: Name=led25
+Added Pin To Net: NetName=led26 Pin=R9.2-2
+Added Pin To Net: NetName=led26 Pin=U2-5
+Added Net: Name=led26
+Added Pin To Net: NetName=led27 Pin=R8.2-2
+Added Pin To Net: NetName=led27 Pin=U2-6
+Added Net: Name=led27

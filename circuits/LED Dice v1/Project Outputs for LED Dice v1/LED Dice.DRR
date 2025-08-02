@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: LED Dice.PcbDoc   6/21/2024  8:35:24 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Layer 1 to Layer 4
+ASCII RoundHoles File : LED Dice-RoundHoles.TXT
+ASCII SlotHoles File : LED Dice-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.381mm (15mil)                                           Round             50        PTH        217.51mm (8.56inch)
+T2      0.55mm (22mil)                                            Slot              2         PTH        15.43mm (0.61inch)
+T3      0.6mm (24mil)                                             Slot              2         PTH        10.90mm (0.43inch)
+T4      1.016mm (40mil)                                           Round             6         PTH        45.90mm (1.81inch)
+T5      0.9mm (35mil)                                             Round             2         NPTH       3.00mm (0.12inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              62
+
+Total Processing Time (hh:mm:ss) : 00:00:00

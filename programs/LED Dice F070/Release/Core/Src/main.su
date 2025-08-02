@@ -1,0 +1,6 @@
+../Core/Src/main.c:153:6:SystemClock_Config	104	static,ignoring_inline_asm
+../Core/Src/main.c:269:6:initPCA9535	16	static
+../Core/Src/main.c:279:6:dispPCA9535	16	static
+../Core/Src/main.c:311:6:dispNum	8	static
+../Core/Src/main.c:82:5:main	48	static,ignoring_inline_asm
+../Core/Src/main.c:324:6:Error_Handler	0	static,ignoring_inline_asm

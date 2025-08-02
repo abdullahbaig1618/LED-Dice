@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=SCL Pin=U1-1
+Removed Pin From Net: NetName=+3.3V Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-5
+Removed Pin From Net: NetName=touchIn Pin=U1-20
+Change Component Footprint: Designator=U1 Old Footprint=*TSSOP20 New Footprint=SOP65P640X120-20N
+Change Component Comment : Designator=U1 Old Comment=STM32G030F6P6 New Comment=STM32F070F6P6
+Change component parameters: Designator = "U1" ("U1"); Footprint = "*TSSOP20"; UniqueID = "\HIDZOAAU" ("\HIDZOAAU")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/STM32F070F6P6/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "STM32F070F6P6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TSSOP-20 STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STM32F070F6P6/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CL10B104KB8NNNC/Samsung%20Electro-Mechanics/view-part/3598309/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=SCL Pin=U1-3
+Added Pin To Net: NetName=+3.3V Pin=U1-5
+Added Pin To Net: NetName=touchIn Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=+3.3V Pin=U1-16
+Change Net Name : Old Net Name=SWCLK New Net Name=SWDIO
+Added Pin To Net: NetName=NRST Pin=C9-2
+Added Pin To Net: NetName=NRST Pin=U1-4
+Added Net: Name=NRST
+Added Pin To Net: NetName=SWCLK Pin=U1-20
+Added Net: Name=SWCLK
+Added Member To Class: ClassName=LED Dice Member=Component C9 CL10B104KB8NNNC

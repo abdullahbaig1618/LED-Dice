@@ -63,6 +63,8 @@ void Error_Handler(void);
 #define touchIn_GPIO_Port GPIOA
 #define LED_DIN_Pin GPIO_PIN_6
 #define LED_DIN_GPIO_Port GPIOA
+#define DinExt_Pin GPIO_PIN_7
+#define DinExt_GPIO_Port GPIOA
 
 /* USER CODE BEGIN Private defines */
 

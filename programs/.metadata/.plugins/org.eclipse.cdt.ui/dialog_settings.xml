@@ -4,4 +4,16 @@
 	</section>
 	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
 	</section>
+	<section name="CRenameRefactoringInputPage">
+		<item key="scope" value="3"/>
+		<item key="workingset" value=""/>
+		<item key="references_inv" value="false"/>
+		<item key="comment" value="false"/>
+		<item key="preprocessor" value="false"/>
+		<item key="exhausiveFileSearch" value="false"/>
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration.internal">
+		<item key="size.width" value="384"/>
+		<item key="size.height" value="180"/>
+	</section>
 </section>

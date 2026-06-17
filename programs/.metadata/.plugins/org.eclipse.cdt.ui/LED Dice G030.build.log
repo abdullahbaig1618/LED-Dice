@@ -1,22 +1,10 @@
-18:16:46 **** Incremental Build of configuration Release for project LED Dice G030 ****
-make -j8 all 
-arm-none-eabi-gcc -o "LED Dice G030.elf" @"objects.list"   -mcpu=cortex-m0plus -T"D:\Abdullah\projects\LED Dice\programs\LED Dice G030\STM32G030F6PX_FLASH.ld" --specs=nosys.specs -Wl,-Map="LED Dice G030.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
-Finished building target: LED Dice G030.elf
- 
+23:08:19 **** Incremental Build of configuration Release for project LED Dice G030 ****
+make -j32 all 
 arm-none-eabi-size  LED\ Dice\ G030.elf 
-arm-none-eabi-objdump -h -S LED\ Dice\ G030.elf  > "LED Dice G030.list"
    text	   data	    bss	    dec	    hex	filename
-   5788	     12	   1716	   7516	   1d5c	LED Dice G030.elf
-arm-none-eabi-objcopy  -O ihex LED\ Dice\ G030.elf  "LED Dice G030.hex"
-arm-none-eabi-objcopy  -O binary LED\ Dice\ G030.elf  "LED Dice G030.bin"
+  10404	     16	   2568	  12988	   32bc	LED Dice G030.elf
 Finished building: default.size.stdout
  
-Finished building: LED Dice G030.list
- 
-Finished building: LED Dice G030.hex
-Finished building: LED Dice G030.bin
- 
- 
 
-18:16:47 Build Finished. 0 errors, 0 warnings. (took 631ms)
+23:08:19 Build Finished. 0 errors, 0 warnings. (took 187ms)
 

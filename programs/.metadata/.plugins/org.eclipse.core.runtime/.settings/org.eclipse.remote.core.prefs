@@ -1,0 +1,11 @@
+connections/org.eclipse.remote.serial.core.connectionType/LED+Dice+Serial/serial.baudRate=11
+connections/org.eclipse.remote.serial.core.connectionType/LED+Dice+Serial/serial.byteSize=3
+connections/org.eclipse.remote.serial.core.connectionType/LED+Dice+Serial/serial.parity=0
+connections/org.eclipse.remote.serial.core.connectionType/LED+Dice+Serial/serial.portName=COM7
+connections/org.eclipse.remote.serial.core.connectionType/LED+Dice+Serial/serial.stopBits=0
+connections/org.eclipse.remote.serial.core.connectionType/LED_Dice_Serial/serial.baudRate=11
+connections/org.eclipse.remote.serial.core.connectionType/LED_Dice_Serial/serial.byteSize=3
+connections/org.eclipse.remote.serial.core.connectionType/LED_Dice_Serial/serial.parity=0
+connections/org.eclipse.remote.serial.core.connectionType/LED_Dice_Serial/serial.portName=COM7
+connections/org.eclipse.remote.serial.core.connectionType/LED_Dice_Serial/serial.stopBits=0
+eclipse.preferences.version=1

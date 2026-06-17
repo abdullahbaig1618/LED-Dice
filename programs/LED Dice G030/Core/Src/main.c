@@ -37,15 +37,59 @@
 /* Private macro -------------------------------------------------------------*/
 /* USER CODE BEGIN PM */
 
+// Onbaord WS2812C
+// total time for 800 kHz: 1.25 us = 80 cycles
+#define T0H 	19			// 0.30 us
+#define T0L 	61			// 0.95 us
+#define T1H 	41			// 0.65 us
+#define T1L 	39			// 0.60 us
+#define nLED	14			// number of LEDs
+#define arrSiz  nLED*8*3+2	// size of LED data array
+#define maxColor 150
+
+// External LED strip WS2812B
+// total time for 800 kHz: 1.25 us = 80 cycles
+#define T0HExt 			29				// 0.45 us
+#define T0LExt 			51				// 0.8 us
+#define T1HExt 			51				// 0.8 us
+#define T1LExt 			29				// 0.45 us
+#define nLEDExt			10				// number of LEDs
+#define arrSizExt  		nLEDExt*8*3+2	// size of LED data array
+#define maxColorExt 	150
+
 /* USER CODE END PM */
 
 /* Private variables ---------------------------------------------------------*/
 TIM_HandleTypeDef htim3;
 DMA_HandleTypeDef hdma_tim3_ch1;
+DMA_HandleTypeDef hdma_tim3_ch2;
 
 UART_HandleTypeDef huart1;
 
 /* USER CODE BEGIN PV */
+
+uint16_t i=0;
+uint8_t j=0;
+uint16_t currData=0;
+uint8_t UART1_rxBuffer[12] = {65, 66, 67, 68, 69, 70, 71, 72, 73, 74, '\n', '\r'};
+//uint16_t LED_Data[50] = {0, T0H, T0H, T1H, T0H, T0H, T0H, T0H, T0H,
+//							T0H, T0H, T0H, T0H, T0H, T0H, T0H, T0H,
+//							T0H, T0H, T0H, T0H, T0H, T0H, T0H, T0H,
+//							T0H, T0H, T1H, T0H, T0H, T0H, T0H, T0H,
+//							T0H, T1H, T0H, T0H, T0H, T0H, T0H, T0H,
+//							T0H, T0H, T0H, T0H, T0H, T0H, T0H, T0H,
+//						0};
+
+uint8_t LED_Data[arrSiz] = {0};
+uint8_t LED_DataExt[arrSizExt] = {0};
+
+uint8_t colorStep= 5;
+uint8_t redColor = maxColor;
+uint8_t greColor = 0;
+uint8_t bluColor = 0;
+uint32_t colorCounter = 0;
+uint8_t currentNum = 1;
+
 
 /* USER CODE END PV */
 
@@ -56,6 +100,14 @@ static void MX_DMA_Init(void);
 static void MX_USART1_UART_Init(void);
 static void MX_TIM3_Init(void);
 /* USER CODE BEGIN PFP */
+
+GPIO_PinState touchDetect(void);
+void setLEDData(uint8_t, uint8_t, uint8_t);
+void setAllLED(uint8_t, uint8_t, uint8_t);
+void colorIncrement(void);
+
+void setLEDDataExt(uint8_t, uint8_t, uint8_t);
+void setAllLEDExt(uint8_t, uint8_t, uint8_t);
 
 /* USER CODE END PFP */
 
@@ -98,12 +150,36 @@ int main(void)
   MX_TIM3_Init();
   /* USER CODE BEGIN 2 */
 
+//  HAL_TIM_PWM_Start(&htim3, TIM_CHANNEL_1);
+//  HAL_TIM_PWM_Start(&htim3, TIM_CHANNEL_2);
+//  HAL_TIM_PWM_Start_DMA(&htim3, TIM_CHANNEL_2, (uint32_t *)LED_DataExt, arrSizExt);
+
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+	  HAL_Delay(10);
+//	  HAL_UART_Transmit(&huart1, UART1_rxBuffer, 12, 100);
+
+//	  HAL_TIM_PWM_Start_DMA(&htim3, TIM_CHANNEL_2, (uint32_t *)LED_DataExt, arrSizExt);
+
+	  if (touchDetect())
+	  {
+		  HAL_UART_Transmit(&huart1, (uint8_t *) "Touch\n", 6, 100);
+		  colorIncrement();
+	  }
+	  else
+	  {
+		  HAL_UART_Transmit(&huart1, (uint8_t *) "No Touch\n", 9, 100);
+
+	  }
+
+	  setAllLED(redColor, greColor, bluColor);
+
+
+
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
@@ -168,6 +244,7 @@ static void MX_TIM3_Init(void)
 
   /* USER CODE END TIM3_Init 0 */
 
+  TIM_ClockConfigTypeDef sClockSourceConfig = {0};
   TIM_MasterConfigTypeDef sMasterConfig = {0};
   TIM_OC_InitTypeDef sConfigOC = {0};
 
@@ -177,9 +254,18 @@ static void MX_TIM3_Init(void)
   htim3.Instance = TIM3;
   htim3.Init.Prescaler = 0;
   htim3.Init.CounterMode = TIM_COUNTERMODE_UP;
-  htim3.Init.Period = 90-1;
+  htim3.Init.Period = 80-1;
   htim3.Init.ClockDivision = TIM_CLOCKDIVISION_DIV1;
   htim3.Init.AutoReloadPreload = TIM_AUTORELOAD_PRELOAD_DISABLE;
+  if (HAL_TIM_Base_Init(&htim3) != HAL_OK)
+  {
+    Error_Handler();
+  }
+  sClockSourceConfig.ClockSource = TIM_CLOCKSOURCE_INTERNAL;
+  if (HAL_TIM_ConfigClockSource(&htim3, &sClockSourceConfig) != HAL_OK)
+  {
+    Error_Handler();
+  }
   if (HAL_TIM_PWM_Init(&htim3) != HAL_OK)
   {
     Error_Handler();
@@ -195,6 +281,11 @@ static void MX_TIM3_Init(void)
   sConfigOC.OCPolarity = TIM_OCPOLARITY_HIGH;
   sConfigOC.OCFastMode = TIM_OCFAST_DISABLE;
   if (HAL_TIM_PWM_ConfigChannel(&htim3, &sConfigOC, TIM_CHANNEL_1) != HAL_OK)
+  {
+    Error_Handler();
+  }
+  sConfigOC.Pulse = 20;
+  if (HAL_TIM_PWM_ConfigChannel(&htim3, &sConfigOC, TIM_CHANNEL_2) != HAL_OK)
   {
     Error_Handler();
   }
@@ -266,6 +357,9 @@ static void MX_DMA_Init(void)
   /* DMA1_Channel1_IRQn interrupt configuration */
   HAL_NVIC_SetPriority(DMA1_Channel1_IRQn, 0, 0);
   HAL_NVIC_EnableIRQ(DMA1_Channel1_IRQn);
+  /* DMA1_Channel2_3_IRQn interrupt configuration */
+  HAL_NVIC_SetPriority(DMA1_Channel2_3_IRQn, 0, 0);
+  HAL_NVIC_EnableIRQ(DMA1_Channel2_3_IRQn);
 
 }
 
@@ -297,6 +391,177 @@ static void MX_GPIO_Init(void)
 }
 
 /* USER CODE BEGIN 4 */
+
+GPIO_PinState touchDetect(void)
+{
+	return HAL_GPIO_ReadPin(touchIn_GPIO_Port, touchIn_Pin);
+}
+
+
+void HAL_TIM_PWM_PulseFinishedCallback(TIM_HandleTypeDef *htim)
+{
+
+//	HAL_TIM_PWM_Stop_DMA(htim, TIM_CHANNEL_1);
+
+}
+
+
+void setLEDData(uint8_t redVal, uint8_t greVal, uint8_t bluVal)
+{
+	for(i=0;i<nLED;i++)
+	{
+		for(j=0;j<8;j++)
+		{
+			currData = 1 + 3*8*i+8+j;
+			if(redVal & (1<<(8-j)))
+			{
+				LED_Data[currData] = T1H;
+			}
+			else
+			{
+				LED_Data[currData] = T0H;
+			}
+		}
+
+		for(j=0;j<8;j++)
+		{
+			currData = 1 + 3*8*i+0+j;
+			if(greVal & (1<<(8-j)))
+			{
+				LED_Data[currData] = T1H;
+			}
+			else
+			{
+				LED_Data[currData] = T0H;
+			}
+		}
+
+		for(j=0;j<8;j++)
+		{
+			currData = 1 + 3*8*i+16+j;
+			if(bluVal & (1<<(8-j)))
+			{
+				LED_Data[currData] = T1H;
+			}
+			else
+			{
+				LED_Data[currData] = T0H;
+			}
+		}
+	}
+
+
+}
+
+void setLEDDataExt(uint8_t redVal, uint8_t greVal, uint8_t bluVal)
+{
+	for(i=0;i<nLEDExt;i++)
+	{
+		for(j=0;j<8;j++)
+		{
+			currData = 1 + 3*8*i+8+j;
+			if(redVal & (1<<(8-j)))
+			{
+				LED_DataExt[currData] = T1HExt;
+			}
+			else
+			{
+				LED_DataExt[currData] = T0HExt;
+			}
+		}
+
+		for(j=0;j<8;j++)
+		{
+			currData = 1 + 3*8*i+0+j;
+			if(greVal & (1<<(8-j)))
+			{
+				LED_DataExt[currData] = T1HExt;
+			}
+			else
+			{
+				LED_DataExt[currData] = T0HExt;
+			}
+		}
+
+		for(j=0;j<8;j++)
+		{
+			currData = 1 + 3*8*i+16+j;
+			if(bluVal & (1<<(8-j)))
+			{
+				LED_DataExt[currData] = T1HExt;
+			}
+			else
+			{
+				LED_DataExt[currData] = T0HExt;
+			}
+		}
+	}
+
+
+}
+
+
+
+void setAllLED(uint8_t redVal, uint8_t greVal, uint8_t bluVal)
+{
+	setLEDData(redVal, greVal, bluVal);
+	setLEDDataExt(redVal, greVal, bluVal);
+	HAL_TIM_PWM_Start_DMA(&htim3, TIM_CHANNEL_1, (uint32_t *)LED_Data, arrSiz);
+	HAL_TIM_PWM_Start_DMA(&htim3, TIM_CHANNEL_2, (uint32_t *)LED_DataExt, arrSizExt);
+}
+
+void colorIncrement(void)
+{
+	if((colorCounter > 0) && (colorCounter < maxColor))
+	{
+		redColor--;
+		greColor++;
+		bluColor = 0;
+	}
+
+	if((colorCounter > maxColor) && (colorCounter < 2*maxColor))
+	{
+		redColor = 0;
+		greColor--;
+		bluColor++;
+	}
+
+	if((colorCounter > 2*maxColor) && (colorCounter < 3*maxColor))
+	{
+		redColor++;
+		greColor = 0;
+		bluColor--;
+	}
+
+	colorCounter++;
+
+	if(colorCounter > 3*maxColor)
+	{
+		colorCounter = 0;
+	}
+
+
+
+//	if(redColor < maxColor)
+//	{
+//		redColor++;
+//	}
+//	else if(greColor < maxColor)
+//	{
+//		greColor++;
+//	}
+//	else if(bluColor < maxColor)
+//	{
+//		bluColor++;
+//	}
+//	else
+//	{
+//		redColor = 0;
+//		greColor = 0;
+//		bluColor = 0;
+//	}
+
+}
 
 /* USER CODE END 4 */
 

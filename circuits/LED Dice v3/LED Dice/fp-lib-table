@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "LEDs") (type "KiCad") (uri "${KIPRJMOD}/libraries/LEDs") (options "") (descr ""))
+	(lib (name "TTP223-BA6") (type "KiCad") (uri "${KIPRJMOD}/libraries/TTP223-BA6") (options "") (descr ""))
+	(lib (name "TLV74333PDBVR") (type "KiCad") (uri "${KIPRJMOD}/libraries/TLV74333PDBVR") (options "") (descr ""))
+)

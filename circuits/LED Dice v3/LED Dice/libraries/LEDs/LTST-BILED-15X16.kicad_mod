@@ -1,0 +1,164 @@
+(footprint "LTST-BILED-15X16"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "81d14e53-1c07-40ae-a77f-82b6198282a2")
+		(effects
+			(font
+				(size 0.787402 0.787402)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LTST-BILED-15X16"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "a4daaaee-2b27-45f5-bdf0-0316419c5281")
+		(effects
+			(font
+				(size 0.787402 0.787402)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aa8c36e8-a60f-4f55-82cc-d571d089f115")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "42dac20e-e40a-4901-8992-f2f79173e5b6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "13656a31-3611-404d-bb62-5eb962d2ba5e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.7 -0.15)
+		(end -0.2 -0.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "04a08cce-854e-497b-a56e-dcf5bf17e230")
+	)
+	(fp_line
+		(start -0.45 0.15)
+		(end -0.7 -0.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ecb77785-a733-4ae4-8dcc-ea4376e4c8b9")
+	)
+	(fp_line
+		(start -0.2 -0.15)
+		(end -0.45 0.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "712ce5ec-5ca6-413f-9cf7-bee1c2e86f81")
+	)
+	(fp_line
+		(start 0.2 -0.15)
+		(end 0.7 -0.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "590e66aa-8381-4117-a332-fc3758e3fdf3")
+	)
+	(fp_line
+		(start 0.45 0.15)
+		(end 0.2 -0.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "604e1439-6ca6-4ee6-852f-020d3520f0be")
+	)
+	(fp_line
+		(start 0.7 -0.15)
+		(end 0.45 0.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fbf1366f-1106-4e61-ba9a-79aa8dd5703b")
+	)
+	(pad "P$1" smd rect
+		(at 0.425 -0.725)
+		(size 0.65 0.85)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "b83c11fb-0a36-4a40-bc2f-16489201cc35")
+	)
+	(pad "P$2" smd rect
+		(at -0.425 -0.725)
+		(size 0.65 0.85)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "f0744ba1-e3e4-4d20-8b36-455726b62edd")
+	)
+	(pad "P$3" smd rect
+		(at 0.425 0.725)
+		(size 0.65 0.85)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "96ce4dc1-20c4-4561-8541-969827c205cd")
+	)
+	(pad "P$4" smd rect
+		(at -0.425 0.725)
+		(size 0.65 0.85)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "18074c3a-5e10-4266-a8f6-02123ef881f5")
+	)
+	(model "D:/Setups/KiCad/KiCad Libraries/LEDs/LTST-C195KGJRKT.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 180 180)
+		)
+	)
+)

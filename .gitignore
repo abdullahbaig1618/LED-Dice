@@ -12,3 +12,6 @@
 
 
 /*.PrjPcbStructure
+
+#Kicad internal repository
+.history/

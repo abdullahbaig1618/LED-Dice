@@ -3517,12 +3517,6 @@
 		(uuid "0dc27cb0-0adf-44a8-b277-5ef031e44421")
 	)
 	(junction
-		(at 39.37 163.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "620659b0-ea47-44e0-a20d-0bb5c2e94685")
-	)
-	(junction
 		(at 170.18 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3551,6 +3545,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9a02ed41-313e-4f26-ae9e-998e0139382f")
+	)
+	(junction
+		(at 39.37 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a71ad55c-6fdb-499d-953a-8318db8d4607")
 	)
 	(junction
 		(at 259.08 127)
@@ -4060,7 +4060,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 163.83) (xy 39.37 163.83)
+			(xy 36.83 163.83) (xy 39.37 163.83)
 		)
 		(stroke
 			(width 0)
@@ -4347,6 +4347,16 @@
 			(type default)
 		)
 		(uuid "c3b496b8-723c-4dde-94d0-8ab91150468b")
+	)
+	(wire
+		(pts
+			(xy 36.83 163.83) (xy 36.83 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5ed0bc5-b6ce-4d73-8c0f-3e37e18664f4")
 	)
 	(wire
 		(pts
@@ -4647,16 +4657,6 @@
 			(justify right bottom)
 		)
 		(uuid "52dc332f-c42b-4532-bd6c-b616012dbb05")
-	)
-	(label "VBatt+"
-		(at 34.29 163.83 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5654f278-2465-4d3c-a29b-7eeac45ed4cd")
 	)
 	(label "D+"
 		(at 71.12 50.8 0)
@@ -5969,6 +5969,84 @@
 			(project "LED Dice"
 				(path "/ee819b49-61a1-4f22-8cb6-332b1c3be766/7600acdb-6a32-495d-b4cf-494d3fc1093a"
 					(reference "S1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 36.83 160.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5808c87c-8bfa-49fc-a8bf-059cc8765c23")
+		(property "Reference" "#PWR081"
+			(at 36.83 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 36.83 154.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 36.83 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 36.83 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 36.83 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bc5b1825-b973-4d4a-8964-9dc53b2c9a4e")
+		)
+		(instances
+			(project "LED Dice"
+				(path "/ee819b49-61a1-4f22-8cb6-332b1c3be766/7600acdb-6a32-495d-b4cf-494d3fc1093a"
+					(reference "#PWR081")
 					(unit 1)
 				)
 			)

@@ -15,3 +15,6 @@
 
 #Kicad internal repository
 .history/
+
+#Kicad backups
+*-backups/

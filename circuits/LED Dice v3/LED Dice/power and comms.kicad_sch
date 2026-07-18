@@ -8594,7 +8594,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10 uF"
+		(property "Value" "1 uF"
 			(at 237.744 133.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8638,7 +8638,7 @@
 				)
 			)
 		)
-		(property "Part No" "CL31A106KAHNNNE"
+		(property "Part No" "CL21B105KBFNNNE"
 			(at 234.95 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -8698,7 +8698,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 102.108 43.18 90)
 			(hide yes)
 			(show_name no)
